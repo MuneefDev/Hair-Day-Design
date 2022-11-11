@@ -47,7 +47,7 @@ a:hover {
 .promo {
     display: flex;
     flex-direction: column;
-    background-image: url(../imgs/Bowie+_Salon_+Image_fixed+2021.png);
+    background-image: url("../imgs/Bowie+_Salon_+Image_fixed+2021.png");
     width: 80%;
     margin: 10px auto;
     border-radius: 20px;
